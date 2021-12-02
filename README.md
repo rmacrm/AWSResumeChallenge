@@ -1,3 +1,5 @@
+Testing Issue Linking
+
 # cloud-resume-challenge
 
 This is a sample template for cloud-resume-challenge - Below is a brief explanation of what we have generated for you:
