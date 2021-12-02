@@ -1,3 +1,6 @@
 #In this example, any changes in this repo
 #will require approval from @rmacrm
 * @rmacrm
+
+This is some test text
+test text
