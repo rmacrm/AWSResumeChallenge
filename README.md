@@ -1,4 +1,4 @@
-Testing Issue Linking
+Testing Issue Linking.
 
 # cloud-resume-challenge
 
